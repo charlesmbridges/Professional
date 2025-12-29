@@ -6,9 +6,9 @@ Scientific Consultant
 
 Email: [charlesmbridgesphd@gmail.com](mailto:charlesmbridgesphd@gmail.com)
 
-Curriculum Vitae: [v2025-12-29](../Professional/Bridges_CV_2025-12-29.pdf)
+Curriculum Vitae: [v2025-12-29](https://github.com/charlesmbridges/Professional/blob/main/Bridges_CV_2025-12-29.pdf))
 
-Resume:  [v2025-12-29](../Professional/Bridges_Resume_2025-12-29.pdf)
+Resume:  [v2025-12-29](../blob/main/Bridges_Resume_2025-12-29.pdf)
 
 GitHub (This page): <https://github.com/charlesmbridges/Professional.git>
 
