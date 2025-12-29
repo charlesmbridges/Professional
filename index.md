@@ -4,7 +4,7 @@ Microbiologist, Molecular Biologist, Biochemist, Scientific Consultant
 
 Email: [charlesmbridgesphd@gmail.com](mailto:charlesmbridgesphd@gmail.com)
 
-GitHub (This page): <https://github.com/charlesmbridges/Professional.git>
+GitHub: [(This Page)](https://charlesmbridges.github.io/Professional)
 
 Resume:  [v2025-12-29](https://github.com/charlesmbridges/Professional/blob/main/Bridges_Resume_2025-12-29.pdf)
 
